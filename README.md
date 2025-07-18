@@ -5,7 +5,9 @@ We built an online streamlit app at: [link](https://neurosyphilis-prediction.str
 
 This app supports several diagnosis guildances:
 
-<center><img width="223" height="480" alt="image" src="https://github.com/user-attachments/assets/38ca74e4-f5e0-4aa1-846e-b6ef6802b4ae" /></center>
+<p align="center" width="100%">
+<img width="223" height="480" alt="image" align="center" src="https://github.com/user-attachments/assets/38ca74e4-f5e0-4aa1-846e-b6ef6802b4ae" />
+</p>
 
 It also shows different aspects of selected model, including shap values, ROC/AUC, Net benefit, and Calibration:
 
