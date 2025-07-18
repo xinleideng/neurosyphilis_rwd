@@ -1,4 +1,4 @@
-# Identifying the most effective machine learning approach for neurosyphilis diagnosis: a multicenter, retrospective study using real-world data to compare diagnostic criteria from four continents
+# Identifying the most effective machine learning approach for neurosyphilis diagnosis
 This is the repo for hosting the codes for the article "Identifying the most effective machine learning approach for neurosyphilis diagnosis: a multicenter, retrospective study using real-world data to compare diagnostic criteria from four continents".
 
 We built an online streamlit app at: [link](https://neurosyphilis-prediction.streamlit.app/)
